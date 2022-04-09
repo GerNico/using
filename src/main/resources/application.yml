@@ -1,1 +1,6 @@
-
+my:
+  custom:
+    number: 23
+    panda: Joe
+    secret: password
+    use-default: true
